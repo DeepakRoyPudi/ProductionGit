@@ -1,4 +1,4 @@
-public virtual  class Day9Programming {
+public virtual  class infinity {
 	/*git Push*/
     /*Show the demo of constructor*/
     public Day9Programming(){
@@ -7,7 +7,7 @@ public virtual  class Day9Programming {
    
    
     /*Method which will accept Integer as parameter and determine & print the number is
-    even or odd*/
+    even or off*/
     
     
     public virtual string  findEvenOdd(integer i){
